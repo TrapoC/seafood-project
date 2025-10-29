@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 export function Hero(): JSX.Element {
   // Five curated seafood images (external URLs). Replace with local assets if preferred.
