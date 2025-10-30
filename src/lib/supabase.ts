@@ -48,7 +48,7 @@ const sampleProducts: Product[] = [
     name: "Dried Catfish",
     description: "Sun-dried catfish — ideal for stews and local dishes.",
     image_url:
-      "https://images.unsplash.com/photo-1548946526-f69e2424cf45?auto=format&fit=crop&w=1000&q=80",
+      "https://i0.wp.com/startuptipsdaily.com/wp-content/uploads/2020/04/how-to-start-dried-smoked-catfish-farming-nigeria-africa.png?fit=390%2C280&ssl=1",
     category: "Seafood",
     in_stock: true,
   },
