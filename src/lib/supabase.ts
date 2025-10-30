@@ -48,7 +48,7 @@ const sampleProducts: Product[] = [
     name: "Dried Catfish",
     description: "Sun-dried catfish — ideal for stews and local dishes.",
     image_url:
-      "https://i0.wp.com/startuptipsdaily.com/wp-content/uploads/2020/04/how-to-start-dried-smoked-catfish-farming-nigeria-africa.png?fit=390%2C280&ssl=1",
+      "https://www.iyalojadirect.com/wp-content/uploads/2021/03/iyaloja-direct-23.jpg",
     category: "Seafood",
     in_stock: true,
   },
