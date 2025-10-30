@@ -93,7 +93,7 @@ const sampleProducts: Product[] = [
     name: "Stockfish cutlet",
     description: "Premium stockfish cutlet — ready to cook.",
     image_url:
-      "https://images.unsplash.com/photo-1516684669134-de6f3ab9f8b2?auto=format&fit=crop&w=1000&q=80",
+      "https://www.utchyglobalservices.com/wp-content/uploads/2018/05/Stockfishcut.jpg",
     category: "Seafood",
     in_stock: true,
   },
