@@ -14,7 +14,7 @@ export function Header() {
             <div className="flex items-center justify-center w-11 h-11 rounded-md bg-green-00 overflow-hidden">
               {/* Placeholder image: replace /logo.png with your PNG in public/ or use an imported asset */}
               <img
-                src="https://photos.app.goo.gl/tGVSCnDpF8zFrzFa6"
+                src="https://previews.dropbox.com/p/thumb/ACzFLWshn_ykf9LuBtjZ9rc_YGe6iRbZdqtPh8nS5glKqZD_RAECIa7xtNGiOtoWh0dU6yLFJpCa8-xWOunyprfZbChIFUYCumkgOs7GKh7Atg6SNqVVOPYKpxu3TcaExAZdxmYtBnCDwOThKIpwws9bhAYHECoJlmGT7qlRLtuIN6R6q4pdxuuxcawYYT3MrbHfjFBKOEyz_nUFgDeRiQk0Hq5ytwFSlKU8WyejGzSSrKbOXkXVlQZwG1KgEsXx0fEoliDcPyr9I1sIBqltrezCal8P2zliYH_-V4zkeDl6LYiwT8LSgjGeb6Nbzw3Ug3VBhhmFhMMWzdA5NJLjHz6v/p.png?is_prewarmed=true"
                 alt="Shinung Square logo"
                 className="w-full h-full object-contain"
               />
