@@ -30,7 +30,7 @@ const sampleProducts: Product[] = [
     name: "Oron Crayfish",
     description: "Premium Oron crayfish, dried and ready for soups.",
     image_url:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm0o7ZPcECVITIf9M2F4lsU16-Jgk_s1fXCw&s",
+      "https://i.etsystatic.com/32805252/r/il/836445/3461367714/il_794xN.3461367714_aao4.jpg",
     category: "Seafood",
     in_stock: true,
   },
@@ -39,7 +39,7 @@ const sampleProducts: Product[] = [
     name: "Mangala/Bargi",
     description: "Smoked Mangala (Bargi) fish — rich and flavorful.",
     image_url:
-      "https://images.unsplash.com/photo-1516685018646-549d4b60b8f2?auto=format&fit=crop&w=1000&q=80",
+      "https://www.picclickimg.com/q14AAOSwoD1lVoc0/Nigerian-Mangala-Smoked-Tasty-Dried-Fish.webp",
     category: "Seafood",
     in_stock: true,
   },
@@ -57,7 +57,7 @@ const sampleProducts: Product[] = [
     name: "Bonga (Shawa) Fish",
     description: "Bonga (Shawa) — well-smoked for deep umami.",
     image_url:
-      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1000&q=80",
+      "https://africanmarketdubai.com/wp-content/uploads/2021/01/c93c565e-e9c6-467c-9858-3e7a06167610.jpg",
     category: "Seafood",
     in_stock: true,
   },
@@ -66,7 +66,7 @@ const sampleProducts: Product[] = [
     name: "Asa Fish",
     description: "Fresh Asa fish — clean fillets, great for grilling.",
     image_url:
-      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1000&q=80",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmSkGEWpYa5OCbLya4QSZfayF3o9Jaf3ADdg&s",
     category: "Seafood",
     in_stock: true,
   },
@@ -75,7 +75,7 @@ const sampleProducts: Product[] = [
     name: "Sole Fish (Abo)",
     description: "Sole fish (Abo) — delicate white flesh.",
     image_url:
-      "https://images.unsplash.com/photo-1514514955859-0f0ae2f7c9d6?auto=format&fit=crop&w=1000&q=80",
+      "https://images.hive.blog/DQmNSpsHpWMd8ujtpjfg5SPYau8Mpm4HUqKpUuhBzTmYvKJ/FE6E6356-5D24-4E6F-97B5-97B9C3252834.jpeg",
     category: "Seafood",
     in_stock: true,
   },
@@ -84,7 +84,7 @@ const sampleProducts: Product[] = [
     name: "Panla",
     description: "Smoked panla — a local favorite for soups.",
     image_url:
-      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1000&q=80",
+      "https://greenbasket.com.ng/wp-content/uploads/2023/12/Smoked-Fish.png",
     category: "Seafood",
     in_stock: true,
   },
@@ -102,7 +102,7 @@ const sampleProducts: Product[] = [
     name: "Shrimps",
     description: "Fresh shrimps — peeled and deveined on request.",
     image_url:
-      "https://images.unsplash.com/photo-1514516953161-9a0a8a6f1b6d?auto=format&fit=crop&w=1000&q=80",
+      "https://www.seriouseats.com/thmb/ch4c6o15shxPyfO8jnSfUh_wQ0s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__08__09102015-grilled-lemongrass-shrimp-shaozhizhong-8-a5525792ce7a4c9693af0a564eae74a4.jpg",
     category: "Seafood",
     in_stock: true,
   },
@@ -111,7 +111,7 @@ const sampleProducts: Product[] = [
     name: "Prawns",
     description: "Large prawns — firm texture, great for grilling.",
     image_url:
-      "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1000&q=80",
+      "https://www.foodandwine.com/thmb/efFCylKyN5KxcnfbnFDXRj3TVAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Garlic-Ganbak-Skillet-Spot-Prawns-with-Garlic-and-Spanish-Paprika-FT-RECIPE0823-3a33676e58674a01904a5a086604b220.jpg",
     category: "Seafood",
     in_stock: true,
   },
@@ -120,7 +120,7 @@ const sampleProducts: Product[] = [
     name: "Periwinkle",
     description: "Hand-picked periwinkle — traditional coastal ingredient.",
     image_url:
-      "https://images.unsplash.com/photo-1533777324565-a040eb52fac2?auto=format&fit=crop&w=1000&q=80",
+      "https://c7.staticflickr.com/9/8548/29608181854_1c5fdd9fbd_c.jpg",
     category: "Seafood",
     in_stock: false,
   },
@@ -131,7 +131,7 @@ const sampleProducts: Product[] = [
     name: "Uziza",
     description: "Aromatic uziza seeds — perfect for soups and stews.",
     image_url:
-      "https://images.unsplash.com/photo-1516822003754-cca485356ecb?auto=format&fit=crop&w=1000&q=80",
+      "https://mile12market.com/wp-content/uploads/2016/11/Uziza.jpg",
     category: "Natural Spices",
     in_stock: true,
   },
@@ -140,7 +140,7 @@ const sampleProducts: Product[] = [
     name: "Ehuru",
     description: "Ehuru (Calabash nutmeg) — adds warm, nutty notes.",
     image_url:
-      "https://images.unsplash.com/photo-1516685018646-549d4b60b8f2?auto=format&fit=crop&w=1000&q=80",
+      "https://foodieng.com/wp-content/uploads/2022/05/ehuru.png",
     category: "Natural Spices",
     in_stock: true,
   },
@@ -149,7 +149,7 @@ const sampleProducts: Product[] = [
     name: "Dawa Dawa",
     description: "Fermented dawa-dawa — traditional flavor enhancer.",
     image_url:
-      "https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642?auto=format&fit=crop&w=1000&q=80",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Dawa_a_tsabobinta.jpg",
     category: "Natural Spices",
     in_stock: true,
   },
@@ -158,7 +158,7 @@ const sampleProducts: Product[] = [
     name: "Ginger",
     description: "Fresh ginger — zesty and aromatic.",
     image_url:
-      "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?auto=format&fit=crop&w=1000&q=80",
+      "https://files.nccih.nih.gov/ginger-thinkstockphotos-531052216-square.jpg",
     category: "Natural Spices",
     in_stock: true,
   },
@@ -167,7 +167,7 @@ const sampleProducts: Product[] = [
     name: "Garlic",
     description: "Premium garlic bulbs — strong and fragrant.",
     image_url:
-      "https://images.unsplash.com/photo-1524594154904-9c0b6d6a8a2b?auto=format&fit=crop&w=1000&q=80",
+      "https://mile12market.com/wp-content/uploads/2014/12/mile12_market_online_garlic.png",
     category: "Natural Spices",
     in_stock: true,
   },
@@ -176,7 +176,7 @@ const sampleProducts: Product[] = [
     name: "Tumeric",
     description: "Tumeric powder — vibrant color and earthy flavor.",
     image_url:
-      "https://images.unsplash.com/photo-1519731922410-6b2f0b9d3f30?auto=format&fit=crop&w=1000&q=80",
+      "https://media.cnn.com/api/v1/images/stellar/prod/170201133809-turmeric-stock.jpg?q=x_2,y_62,h_1228,w_2182,c_crop/h_833,w_1480",
     category: "Natural Spices",
     in_stock: true,
   },
@@ -185,7 +185,7 @@ const sampleProducts: Product[] = [
     name: "Clove",
     description: "Whole cloves — rich and aromatic.",
     image_url:
-      "https://images.unsplash.com/photo-1542362567-b07e54358753?auto=format&fit=crop&w=1000&q=80",
+      "https://www.naturadoriente.com/13010-large_default/whole-cloves.jpg",
     category: "Natural Spices",
     in_stock: true,
   },
@@ -194,7 +194,7 @@ const sampleProducts: Product[] = [
     name: "White soup spices",
     description: "Blended white soup spice mix — balanced and ready-to-use.",
     image_url:
-      "https://images.unsplash.com/photo-1526312426976-2aa0c58f1b0a?auto=format&fit=crop&w=1000&q=80",
+      "https://adalinelagos.com/wp-content/uploads/2023/10/New-Project-40.jpg",
     category: "Natural Spices",
     in_stock: true,
   },
@@ -203,7 +203,7 @@ const sampleProducts: Product[] = [
     name: "Pepper soup spices",
     description: "Pepper soup spice mix — bold and aromatic.",
     image_url:
-      "https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=1000&q=80",
+      "https://247foods.ng/wp-content/uploads/2025/03/Pepper-Soup-Spice-Half-Paint.png",
     category: "Natural Spices",
     in_stock: true,
   },
@@ -214,7 +214,7 @@ const sampleProducts: Product[] = [
     name: "Dried Afang Leaves",
     description: "Dried Afang — ready for traditional soups.",
     image_url:
-      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1000&q=80",
+      "https://shopafricausa.com/cdn/shop/files/WhatsApp-Image-2021-06-08-at-08.15.08-1_1200x1200.jpg?v=1745862327",
     category: "Vegetables & Others",
     in_stock: true,
   },
@@ -223,7 +223,7 @@ const sampleProducts: Product[] = [
     name: "Atama Leaves",
     description: "Fresh/dried Atama leaves — aromatic local greens.",
     image_url:
-      "https://images.unsplash.com/photo-1504593811423-6dd665756598?auto=format&fit=crop&w=1000&q=80",
+      "https://www.pricepally.com/_next/image?url=https%3A%2F%2Fpp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com%2FAtama%20Leaves%20General(1)-1724766020081.jpg&w=3840&q=75",
     category: "Vegetables & Others",
     in_stock: true,
   },
@@ -232,7 +232,7 @@ const sampleProducts: Product[] = [
     name: "Editang Leaves",
     description: "Editang leaves — ideal for soups and stews.",
     image_url:
-      "https://images.unsplash.com/photo-1484981184820-2e84ea0b0d4e?auto=format&fit=crop&w=1000&q=80",
+      "https://www.pricepally.com/_next/image?url=https%3A%2F%2Fpp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com%2Feditan%20leaves-1719044733552.jpg&w=3840&q=75",
     category: "Vegetables & Others",
     in_stock: true,
   },
@@ -241,7 +241,7 @@ const sampleProducts: Product[] = [
     name: "Zobo Leaves",
     description: "Zobo (hibiscus) leaves — for beverages and syrups.",
     image_url:
-      "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?auto=format&fit=crop&w=1000&q=80",
+      "https://mile12market.com/wp-content/uploads/2014/12/mile12_market_online_hibiscus_leaves_zobo.png",
     category: "Vegetables & Others",
     in_stock: true,
   },
@@ -250,7 +250,7 @@ const sampleProducts: Product[] = [
     name: "Garri (Ijebu)",
     description: "Premium Ijebu garri — high-quality cassava flakes.",
     image_url:
-      "https://images.unsplash.com/photo-1526312426976-2aa0c58f1b0a?auto=format&fit=crop&w=1000&q=80",
+      "https://www.ampflexi.com/wp-content/uploads/2023/02/FEB342E8-D837-49B9-812D-1D61756FA55B.png",
     category: "Vegetables & Others",
     in_stock: true,
   },
@@ -259,7 +259,7 @@ const sampleProducts: Product[] = [
     name: "Yam (Ogoja)",
     description: "Ogoja yam tubers — starchy and nutritious.",
     image_url:
-      "https://images.unsplash.com/photo-1543352634-1c0b1739f2c6?auto=format&fit=crop&w=1000&q=80",
+      "https://www.pricepally.com/_next/image?url=https%3A%2F%2Fpp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com%2FYam%20-%20mumuyi%20general-1724942140744-1737166620171.jpg&w=3840&q=75",
     category: "Vegetables & Others",
     in_stock: true,
   },
