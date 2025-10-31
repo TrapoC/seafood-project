@@ -14,14 +14,14 @@ export function Header() {
             <div className="flex items-center justify-center w-11 h-11 rounded-md bg-green-00 overflow-hidden">
               {/* Placeholder image: replace /logo.png with your PNG in public/ or use an imported asset */}
               <img
-                src="https://photos.fife.usercontent.google.com/pw/AP1GczPtvuGLkZkORkEeCfaLY2A1hmfoSaVIzmWDfbCr1EpKtpy1xc-OX9rtkA=w731-h731-s-no-gm?authuser=1"
+                src="https://photos.app.goo.gl/tGVSCnDpF8zFrzFa6"
                 alt="Shinung Square logo"
                 className="w-full h-full object-contain"
               />
             </div>
             <div>
               <h1 className="text-lg md:text-xl lg:text-2xl font-extrabold text-gray-900 leading-tight">
-                Shinung Square store
+                Shinung Square Store
               </h1>
               <p className="text-xs text-gray-500 -mt-0.5">
                 Premium Seafood & Catering
