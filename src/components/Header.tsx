@@ -21,7 +21,7 @@ export function Header() {
             </div>
             <div>
               <h1 className="text-lg md:text-xl lg:text-2xl font-extrabold text-gray-900 leading-tight">
-                Shinung Square Store
+                Shinung Square
               </h1>
               <p className="text-xs text-gray-500 -mt-0.5">
                 Premium Seafood & Catering
