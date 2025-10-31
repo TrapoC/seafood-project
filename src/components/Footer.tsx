@@ -11,7 +11,7 @@ export function Footer() {
               <div className="w-12 h-12 rounded-md bg-green-00 flex items-center justify-center overflow-hidden">
                 {/* Placeholder image: replace /logo.png with your PNG in public/ or use an imported asset */}
                 <img
-                  src="photo-output.PNG"
+                  src="https://photos.fife.usercontent.google.com/pw/AP1GczPtvuGLkZkORkEeCfaLY2A1hmfoSaVIzmWDfbCr1EpKtpy1xc-OX9rtkA=w731-h731-s-no-gm?authuser=1"
                   alt="Shinung Square logo"
                   className="w-full h-full object-contain"
                 />
