@@ -122,7 +122,7 @@ const sampleProducts: Product[] = [
     image_url:
       "https://c7.staticflickr.com/9/8548/29608181854_1c5fdd9fbd_c.jpg",
     category: "Seafood",
-    in_stock: false,
+    in_stock: true,
   },
 
   // Natural Spices
