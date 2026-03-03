@@ -140,7 +140,7 @@ const sampleProducts: Product[] = [
     name: "Ehuru",
     description: "Ehuru (Calabash nutmeg) — adds warm, nutty notes.",
     image_url:
-      "https://foodieng.com/wp-content/uploads/2022/05/ehuru.png",
+      "https://www.surulerefoods.com/cdn/shop/files/Ehuru-Seeds.webp?v=1764594291&width=990",
     category: "Natural Spices",
     in_stock: true,
   },
