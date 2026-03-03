@@ -1,4 +1,4 @@
-import { Phone, Mail, MapPin } from "lucide-react";
+import { Phone, Mail, MapPin, Fish } from "lucide-react";
 
 export function Footer() {
   return (
@@ -8,17 +8,12 @@ export function Footer() {
           {/* Brand */}
           <div>
             <div className="flex items-center gap-3 mb-4">
-              <div className="w-12 h-12 rounded-md bg-green-00 flex items-center justify-center overflow-hidden">
-                {/* Placeholder image: replace /logo.png with your PNG in public/ or use an imported asset */}
-                <img
-                  src="https://previews.dropbox.com/p/thumb/ACzFLWshn_ykf9LuBtjZ9rc_YGe6iRbZdqtPh8nS5glKqZD_RAECIa7xtNGiOtoWh0dU6yLFJpCa8-xWOunyprfZbChIFUYCumkgOs7GKh7Atg6SNqVVOPYKpxu3TcaExAZdxmYtBnCDwOThKIpwws9bhAYHECoJlmGT7qlRLtuIN6R6q4pdxuuxcawYYT3MrbHfjFBKOEyz_nUFgDeRiQk0Hq5ytwFSlKU8WyejGzSSrKbOXkXVlQZwG1KgEsXx0fEoliDcPyr9I1sIBqltrezCal8P2zliYH_-V4zkeDl6LYiwT8LSgjGeb6Nbzw3Ug3VBhhmFhMMWzdA5NJLjHz6v/p.png?is_prewarmed=true"
-                  alt="Shinung Square logo"
-                  className="w-full h-full object-contain"
-                />
+              <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-green-500 to-emerald-600 flex items-center justify-center">
+                <Fish className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h3 className="text-2xl font-extrabold">Shinung Square</h3>
-                <p className="text-sm text-gray-400">
+                <h3 className="text-2xl font-bold">Shinung Square</h3>
+                <p className="text-xs text-emerald-400 font-medium tracking-wide uppercase">
                   Premium Seafood & Catering
                 </p>
               </div>
