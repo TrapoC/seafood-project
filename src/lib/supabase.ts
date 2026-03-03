@@ -185,7 +185,7 @@ const sampleProducts: Product[] = [
     name: "Clove",
     description: "Whole cloves — rich and aromatic.",
     image_url:
-      "https://www.naturadoriente.com/13010-large_default/whole-cloves.jpg",
+      "https://incloodiefoodtour.com/wp-content/uploads/2024/10/jaspreet-kalsi-7472HfbBMrY-unsplash-1920x1440.jpg",
     category: "Natural Spices",
     in_stock: true,
   },
