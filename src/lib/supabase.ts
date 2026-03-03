@@ -75,7 +75,7 @@ const sampleProducts: Product[] = [
     name: "Sole Fish (Abo)",
     description: "Sole fish (Abo) — delicate white flesh.",
     image_url:
-      "https://images.hive.blog/DQmNSpsHpWMd8ujtpjfg5SPYau8Mpm4HUqKpUuhBzTmYvKJ/FE6E6356-5D24-4E6F-97B5-97B9C3252834.jpeg",
+      "https://www.cuisinefiend.com/RecipeImages/Dover%20sole/dover-sole-1-600.jpg",
     category: "Seafood",
     in_stock: true,
   },
