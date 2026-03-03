@@ -1,4 +1,4 @@
-import { Package } from 'lucide-react';
+import { Package, ShoppingBag } from 'lucide-react';
 import type { Product } from '../lib/supabase';
 
 interface ProductCardProps {
@@ -7,26 +7,60 @@ interface ProductCardProps {
 
 export function ProductCard({ product }: ProductCardProps) {
   return (
-    <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300">
-      <div className="aspect-square bg-gray-100 flex items-center justify-center">
+    <div className="group bg-white rounded-2xl overflow-hidden border border-gray-100 hover:border-gray-200 transition-all duration-300 hover:shadow-xl hover:-translate-y-1">
+      {/* Image */}
+      <div className="relative aspect-square bg-gray-50 overflow-hidden">
         {product.image_url ? (
           <img
             src={product.image_url}
             alt={product.name}
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
           />
         ) : (
-          <Package className="w-20 h-20 text-gray-300" />
+          <div className="flex items-center justify-center w-full h-full">
+            <Package className="w-16 h-16 text-gray-200" />
+          </div>
         )}
-      </div>
-      <div className="p-4">
-        <h3 className="text-lg font-semibold text-gray-900 mb-2">{product.name}</h3>
-        <p className="text-sm text-gray-600 mb-3 line-clamp-2">{product.description}</p>
-        <div className="flex items-center justify-between">
-          <span className={`text-sm font-medium ${product.in_stock ? 'text-green-600' : 'text-red-600'}`}>
+
+        {/* Stock badge */}
+        <div className="absolute top-3 left-3">
+          <span
+            className={`inline-flex items-center px-2.5 py-1 rounded-full text-xs font-semibold backdrop-blur-sm ${
+              product.in_stock
+                ? 'bg-green-500/90 text-white'
+                : 'bg-red-500/90 text-white'
+            }`}
+          >
             {product.in_stock ? 'In Stock' : 'Out of Stock'}
           </span>
         </div>
+
+        {/* Category tag */}
+        {product.category && (
+          <div className="absolute top-3 right-3">
+            <span className="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-medium bg-white/90 text-gray-700 backdrop-blur-sm">
+              {product.category}
+            </span>
+          </div>
+        )}
+
+        {/* Hover overlay */}
+        <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end justify-center pb-4">
+          <span className="inline-flex items-center gap-2 bg-white text-gray-900 px-4 py-2 rounded-full text-sm font-semibold shadow-lg transform translate-y-4 group-hover:translate-y-0 transition-transform duration-300">
+            <ShoppingBag className="w-4 h-4" />
+            View Details
+          </span>
+        </div>
+      </div>
+
+      {/* Content */}
+      <div className="p-5">
+        <h3 className="text-base font-semibold text-gray-900 mb-1.5 group-hover:text-green-700 transition-colors">
+          {product.name}
+        </h3>
+        <p className="text-sm text-gray-500 leading-relaxed line-clamp-2">
+          {product.description}
+        </p>
       </div>
     </div>
   );
