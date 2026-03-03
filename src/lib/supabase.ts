@@ -194,7 +194,7 @@ const sampleProducts: Product[] = [
     name: "White soup spices",
     description: "Blended white soup spice mix — balanced and ready-to-use.",
     image_url:
-      "https://adalinelagos.com/wp-content/uploads/2023/10/New-Project-40.jpg",
+      "https://africanmarketdubai.com/wp-content/uploads/2020/08/ccd8e8f8-a8b3-4bf0-8cc4-9e89bd9f3c73.jpg",
     category: "Natural Spices",
     in_stock: true,
   },
