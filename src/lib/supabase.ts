@@ -57,7 +57,7 @@ const sampleProducts: Product[] = [
     name: "Bonga (Shawa) Fish",
     description: "Bonga (Shawa) — well-smoked for deep umami.",
     image_url:
-      "https://africanmarketdubai.com/wp-content/uploads/2021/01/c93c565e-e9c6-467c-9858-3e7a06167610.jpg",
+      "https://24hoursmarket.com/wp-content/uploads/2018/01/1703972805123.jpg",
     category: "Seafood",
     in_stock: true,
   },
