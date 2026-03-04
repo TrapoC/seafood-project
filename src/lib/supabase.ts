@@ -250,7 +250,7 @@ const sampleProducts: Product[] = [
     name: "Garri (Ijebu)",
     description: "Premium Ijebu garri — high-quality cassava flakes.",
     image_url:
-      "https://www.ampflexi.com/wp-content/uploads/2023/02/FEB342E8-D837-49B9-812D-1D61756FA55B.png",
+      "https://www.neogric.com/wp-content/uploads/2024/06/Buy-garri-Ijebu-Neogric.png",
     category: "Vegetables & Others",
     in_stock: true,
   },
