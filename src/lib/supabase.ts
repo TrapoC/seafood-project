@@ -72,11 +72,11 @@ const sampleProducts: Product[] = [
   },
   {
     id: 6,
-    name: "Sole Fish (Abo)",
-    description: "Sole fish (Abo) — delicate white flesh.",
+    name: "Ogbono",
+    description: "Ogbono — delicate for soup.",
     image_url:
-      "https://www.cuisinefiend.com/RecipeImages/Dover%20sole/dover-sole-1-600.jpg",
-    category: "Seafood",
+      "https://zumafind.com/wp-content/uploads/2024/09/Ogbono-Zumafind-1.jpeg",
+    category: "Natural Spice",
     in_stock: true,
   },
   {
